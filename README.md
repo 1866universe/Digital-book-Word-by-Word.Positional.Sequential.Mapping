@@ -114,14 +114,16 @@ Interpretation and Further Analysis
 ## Downloads
 The official digital book files are downloaded from the "Assets" section of the GitHub releases repository page.
 
-Word-by-Word.Positional.Sequential.Mapping_Persian_v1.0.0.flbx
-Word-by-Word.Positional.Sequential.Mapping_English_v1.0.0.flbx
+ebook-WordByWord-WPSM-Persian-v1.0.0.exe
+ebook-WordByWord-WPSM-Persian-v1.0.0.apk
+ebook-WordByWord-WPSM-English-v1.0.0.exe
+ebook-WordByWord-WPSM-English-v1.0.0.apk
 
 #### Direct download
-https://github.com/1866universe/Word-by-Word.Positional.Sequential.Mapping/releases/download/v1.0.0/Word-by-Word.Positional.Sequential.Mapping_English_v1.0.0.flbx
+https://github.com/1866universe/ebook-Word-by-Word.Positional.Sequential.Mapping/releases/download/v1.0.0/Word-by-Word.Positional.Sequential.Mapping_English_v1.0.0.flbx
 
 #### Download links repository
-https://github.com/1866universe/Word-by-Word.Positional.Sequential.Mapping/releases
+https://github.com/1866universe/ebook-Word-by-Word.Positional.Sequential.Mapping/releases
 
 [راهنمای فارسی](README_FA.md)
 

@@ -117,14 +117,16 @@
 ## دریافت فایل دانلود
 فایل‌های رسمی کتاب‌دیجیتال از بخش Assete در صفحه مخزن GitHub Releases دریافت می‌شوند.
 
-Word-by-Word.Positional.Sequential.Mapping_Persian_v1.0.0.flbx
-Word-by-Word.Positional.Sequential.Mapping_English_v1.0.0.flbx
+ebook-WordByWord-WPSM-Persian-v1.0.0.exe
+ebook-WordByWord-WPSM-Persian-v1.0.0.apk
+ebook-WordByWord-WPSM-English-v1.0.0.exe
+ebook-WordByWord-WPSM-English-v1.0.0.apk
 
 #### دانلود مستقیم
-https://github.com/1866universe/Word-by-Word.Positional.Sequential.Mapping/releases/download/v1.0.0/Word-by-Word.Positional.Sequential.Mapping_Persian_v1.0.0.flbx
+https://github.com/1866universe/ebook-Word-by-Word.Positional.Sequential.Mapping/releases/download/v1.0.0/Word-by-Word.Positional.Sequential.Mapping_Persian_v1.0.0.flbx
 
 #### مخزن لینک‌های دانلود
-https://github.com/1866universe/Word-by-Word.Positional.Sequential.Mapping/releases
+https://github.com/1866universe/ebook-Word-by-Word.Positional.Sequential.Mapping/releases
 
 
 [English README](README.md)

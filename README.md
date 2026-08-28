@@ -20,18 +20,16 @@ This project explores that gap.
 
 Instead of immediately transforming a sentence into a natural and fluent form in the target language, each element of the source sentence is mapped to its closest possible equivalent while maintaining its original positional sequence.
 
-For example:
+### Example:
 
-> **English:**  
-> The weather is cold today.
+**Source (English):**
+> *The weather is cold today.*
 
-A conventional Persian translation may reorganize the sentence into a natural Persian structure:
-
+**Conventional Fluent Translation (Persian):**
 > امروز هوا سرد است.
 
-A positional word-by-word mapping, however, attempts to preserve the original sequence:
-
-> This / weather / is / cold / today
+**Positional Sequential Mapping (Word-by-Word):**
+> `This` / `weather` / `is` / `cold` / `today`
 
 The purpose is not to produce a fluent translation. Instead, the purpose is to make the structural organization of the source sentence more visible.
 
@@ -86,41 +84,41 @@ WPSM is proposed as one possible method for making some of these differences mor
 ## Method Overview
 
 The general process can be summarized as follows:
-
 ```text
 Source Sentence
-       │
-       ▼
+│
+▼
 Word-Level Segmentation
-       │
-       ▼
+│
+▼
 Identification of Linguistic Elements
-       │
-       ▼
+│
+▼
 Closest Possible Word-Level Mapping
-       │
-       ▼
+│
+▼
 Preservation of Original Positional Sequence
-       │
-       ▼
+│
+▼
 Structural Comparison
-       │
-       ▼
+│
+▼
 Interpretation and Further Analysis
 
 ```
 ---
 
 ## Downloads
-The official digital book files are downloaded from the "Assets" section of the GitHub releases repository page.
+Official digital book standalone releases are available for download in the Assets section of the latest GitHub Release:
 
-ebook-WordByWord-WPSM-Persian-v1.0.0.exe
-ebook-WordByWord-WPSM-Persian-v1.0.0.apk
-ebook-WordByWord-WPSM-English-v1.0.0.exe
-ebook-WordByWord-WPSM-English-v1.0.0.apk
+Available Files (v1.0.0)
+Persian Edition (Windows): eBook-WordByWord-WPSM-Persian-v1.0.0.exe
+Persian Edition (Android): eBook-WordByWord-WPSM-Persian-v1.0.0.apk
+English Edition (Windows): eBook-WordByWord-WPSM-English-v1.0.0.exe
+English Edition (Android): eBook-WordByWord-WPSM-English-v1.0.0.apk
 
 #### Direct download
-https://github.com/1866universe/ebook-Word-by-Word.Positional.Sequential.Mapping/releases/download/v1.0.0/Word-by-Word.Positional.Sequential.Mapping_English_v1.0.0.flbx
+https://github.com/1866universe/ebook-Word-by-Word.Positional.Sequential.Mapping/releases/download/v1.0.0/Word-by-Word.Positional.Sequential.Mapping_English_v1.0.0.exe
 
 #### Download links repository
 https://github.com/1866universe/ebook-Word-by-Word.Positional.Sequential.Mapping/releases

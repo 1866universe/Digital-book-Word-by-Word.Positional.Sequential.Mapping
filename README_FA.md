@@ -123,7 +123,7 @@ ebook-WordByWord-WPSM-English-v1.0.0.exe
 ebook-WordByWord-WPSM-English-v1.0.0.apk
 
 #### دانلود مستقیم
-https://github.com/1866universe/ebook-Word-by-Word.Positional.Sequential.Mapping/releases/download/v1.0.0/Word-by-Word.Positional.Sequential.Mapping_Persian_v1.0.0.flbx
+https://github.com/1866universe/ebook-Word-by-Word.Positional.Sequential.Mapping/releases/download/v1.0.0/Word-by-Word.Positional.Sequential.Mapping_Persian_v1.0.0.exe
 
 #### مخزن لینک‌های دانلود
 https://github.com/1866universe/ebook-Word-by-Word.Positional.Sequential.Mapping/releases

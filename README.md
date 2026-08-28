@@ -14,7 +14,7 @@ This project explores that gap.
 
 ---
 
-## The Idea
+## The Main Idea
 
 **Word-by-Word Positional–Sequential Mapping (WPSM)** is an exploratory approach for examining linguistic structure by preserving the original sequence and relative positions of words as much as possible.
 
@@ -22,18 +22,23 @@ Instead of immediately transforming a sentence into a natural and fluent form in
 
 For example:
 
-> **English:**  
-> The weather is cold today.
+- **Source language (Persian):**
 
-A conventional Persian translation may reorganize the sentence into a natural Persian structure:
+> <span dir="rtl">`امروز هوا سرد است.`</span>
 
-> امروز هوا سرد است.
+- **Word-by-Word Positional-Sequential Mapping (English):**
 
-A positional word-by-word mapping, however, attempts to preserve the original sequence:
+> today / The / weather / cold / is
 
-> This / weather / is / cold / today
+- **Natural English translation**
 
-The purpose is not to produce a fluent translation. Instead, the purpose is to make the structural organization of the source sentence more visible.
+> The weather  is  cold  today.
+
+#### Analyzing the structure in the example above:
+- But in Persian, the listener first notices the time at which the event takes place, then attends to the topic, and ultimately evaluates its quality.
+- This means that in English, the listener first pays attention to what the topic is about, then to its quality, and finally to the time at which it occurs.
+
+#### The purpose is not to produce a fluent translation. Instead, the purpose is to make the structural organization of the source sentence more visible.
 
 ---
 
@@ -63,7 +68,7 @@ Nevertheless, preserving and comparing these patterns may provide useful materia
 
 ---
 
-## The Central Question
+## The Main Question
 
 When a message is transferred from one language to another, can we be certain that everything contained in the original expression has been preserved?
 
@@ -111,20 +116,18 @@ Interpretation and Further Analysis
 ```
 ---
 
-## Downloads
-The official digital book files are downloaded from the "Assets" section of the GitHub releases repository page.
+### Download Guide & File Directory
+The official digital book files are downloaded from the ".Assets" section of the GitHub releases repository page.
 
-ebook-WordByWord-WPSM-Persian-v1.0.0.exe
-ebook-WordByWord-WPSM-Persian-v1.0.0.apk
-ebook-WordByWord-WPSM-English-v1.0.0.exe
-ebook-WordByWord-WPSM-English-v1.0.0.apk
-
-#### Direct download
-https://github.com/1866universe/ebook-Word-by-Word.Positional.Sequential.Mapping/releases/download/v1.0.0/Word-by-Word.Positional.Sequential.Mapping_English_v1.0.0.flbx
+| Platform | File |
+|---|---|
+| Windows | `eBook-WordByWord-WPSM-English-v1.0.0.exe` |
+| Android | `eBook-WordByWord-WPSM-English-v1.0.0.apk` |
 
 #### Download links repository
-https://github.com/1866universe/ebook-Word-by-Word.Positional.Sequential.Mapping/releases
+[Download WPSM Digital Book Releases](https://github.com/1866universe/ebook-Word-by-Word.Positional.Sequential.Mapping/releases)
 
 [راهنمای فارسی](README_FA.md)
 
-1866Universe 2026  ©
+---
+*1866Universe 2026 ©*
